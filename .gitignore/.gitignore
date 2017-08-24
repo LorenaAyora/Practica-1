@@ -1,0 +1,6 @@
+#include<studio.h>
+int main(){
+  printf("Este es mi segundo codigo")
+  print ("No se como lo hice pero lo logre")
+  return 0;
+}
